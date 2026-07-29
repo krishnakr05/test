@@ -9,3 +9,7 @@ def greet_user(name):
 def subtract_numbers(a, b):
     """Subtracts b from a and returns the result."""
     return a - b
+
+def multiply_numbers(a, b):
+    """Multiplies two numbers and returns the result."""
+    return a * b
